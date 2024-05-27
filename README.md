@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/purescript-reverse-state](https://github.com/prescientmoon/purescript-reverse-state) 🚧
 # Reverse state
 
 My experiments with reverse state in purescript. Here's a short proof of concept
